@@ -1,5 +1,6 @@
 jieba
 qhchina
+opencc
 numpy
 matplotlib
 scikit-learn
